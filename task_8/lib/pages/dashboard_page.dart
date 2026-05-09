@@ -25,9 +25,9 @@ class DashboardPage extends StatelessWidget {
           children: [
             // 1. Card Profil Mahasiswa
             const ProfilCard(
-              nama: 'Budi Santoso',
+              nama: 'Christian Braun',
               nim: '123456789',
-              prodi: 'Teknik Informatika',
+              prodi: 'Matematika',
             ),
 
             const SizedBox(height: 14),
